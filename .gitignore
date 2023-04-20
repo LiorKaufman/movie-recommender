@@ -1,0 +1,5 @@
+venv
+/venv
+plot_embeddings.npy
+cleaned_movie_plots.csv
+/model_cache
